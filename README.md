@@ -1,2 +1,2 @@
 # React Project
-<img src="view">
+<img src="view.png">
